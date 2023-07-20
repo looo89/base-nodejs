@@ -7,11 +7,11 @@
 
 //console.log(process.argv)
 
-if (Math.random() > 0.5) {
-    while (true) {
+// if (Math.random() > 0.5) {
+//     while (true) {
 
-    }
-} else {
-    console.log('Выполнение программы завершено')
-    process.exit()
-}
+//     }
+// } else {
+//     console.log('Выполнение программы завершено')
+//     process.exit()
+// }
